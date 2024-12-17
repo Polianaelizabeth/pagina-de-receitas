@@ -29,7 +29,7 @@ O desafio consistia em recriar uma pagina de receitas. Foram dados algumas infor
 
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com)
+- Solução URL: (https://polianaelizabeth.github.io/pagina-de-receitas/)
 
 ## Meu processo
 
